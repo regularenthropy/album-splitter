@@ -4,6 +4,9 @@ Do you have a music album as a single file (locally or on YouTube), with all its
 
 This script is for you!
 
+## Changes
+1. Script uses yt-dlp instead of youtube-dl
+
 ## How to install
 
 + Install `ffmpeg`
